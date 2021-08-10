@@ -10124,6 +10124,8 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  background-color: #0000004a;
+  background-blend-mode: overlay;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
