@@ -9850,8 +9850,9 @@ a.text-dark:hover, a.text-dark:focus {
 
 
 .text-white {
-  color: #FFFFFF !important;
+  color: # !important;
 }
+
 
 
 .text-black-50 {
