@@ -142,6 +142,10 @@ small {
   font-size: 80%;
 }
 
+p.thick {
+  font-weight: bold;
+}
+
 sub,
 sup {
   position: relative;
