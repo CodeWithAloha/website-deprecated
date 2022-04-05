@@ -9998,6 +9998,12 @@ p {
   line-height: 1.75;
 }
 
+.header-shaka-container {
+  display: flex;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+
 .page-section {
   padding: 6rem 0;
 }
