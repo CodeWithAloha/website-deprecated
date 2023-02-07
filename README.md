@@ -1,7 +1,3 @@
-# newwebsite
-Website v2
+# CodeForHawaii.org
 
-Site is already live (just hidden)
-Can be accessed with the url below
-
-https://www.codeforhawaii.org/newwebsite/
+The repository that powers https://www.codeforhawaii.org/
