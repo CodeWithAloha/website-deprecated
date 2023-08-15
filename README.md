@@ -1,3 +1,3 @@
-# CodeForHawaii.org
+# CodeWithAloha.org
 
-The repository that powers https://www.codeforhawaii.org/
+The repository that powers https://www.codewithaloha.org/
